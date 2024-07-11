@@ -1,4 +1,4 @@
-# CNC-2D-Plotter
+# CNC-Plotter
 
 CNC 2D Plotter is controlled by two stepper motors, one which controlled the movement along y-direction which moved the central limb. The second stepper controlled the movement along x-direction by moving the pen holding plate. It is controlled by GRBL controller. GRLB is the open source firmware freely available for every one, GRBL is used as firmware for CNC machine. GRBL CNC Shield is used as controller for CNC machine, GRBL shield and GRBL firmware is very best for 3 axis stepper CNC machine.
 
